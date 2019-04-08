@@ -1,3 +1,9 @@
 <resources>
     <string name="app_name">Prototype ddiaris</string>
+    <string name="Username">Username</string>
+    <string name="Password">Password</string>
+    <string name="email">Email</string>
+    <string name="confirm_password">Confirm Password</string>
+    <string name="dont_have_account">Don\'t have an account? <b>Sign Up</b></string>
+    <string name="have_account">Aiready have an account ? <b>Sign In</b></string>
 </resources>

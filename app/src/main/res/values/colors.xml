@@ -1,6 +1,12 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <color name="colorPrimary">#008577</color>
-    <color name="colorPrimaryDark">#00574B</color>
+    <color name="colorPrimary">#704797</color>
+    <color name="colorPrimaryDark">#EED6FF</color>
     <color name="colorAccent">#D81B60</color>
+    <color name="colorBackground">#F5ECFB</color>
+    <color name="colorWhite">#ffffff</color>
+    <color name="myBlack">#474443</color>
+    <color name="faded">#b9b9b9</color>
+    <color name="button1">#8353B2</color>
+
 </resources>
